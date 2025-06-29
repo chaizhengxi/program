@@ -21,12 +21,12 @@ function MergeAndCheckStrip(points, midPoint, d):
             // 计算两点间的欧几里得距离
             dist = EuclideanDistance(strip[i], strip[j])
             if dist < minDist:
-                minDist = dist
+                minDist = distafds
     
     return minDist
 
 
-fasfadsfads
+fasfadsfadsafasdfs
 
 //
 dFDFA

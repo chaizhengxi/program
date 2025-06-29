@@ -5,8 +5,8 @@
 #include <mpi.h>
 #include <pmmintrin.h>
 #include <omp.h>
-using namespace std;
-
+using namespace std;fd
+dfasdf
 static const int thread_count = 4;
 
 
