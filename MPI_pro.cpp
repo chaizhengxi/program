@@ -9,9 +9,9 @@ using namespace std;
 
 static const int thread_count = 4;
 
+safdsaf
 
-
-//
+//fadsf
 unsigned int Act[43577][1363] = {0};
 unsigned int Pas[54274][1363] = {0};
 

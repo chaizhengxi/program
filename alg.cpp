@@ -27,7 +27,7 @@ function MergeAndCheckStrip(points, midPoint, d):
 
 
 
-
+fasdgergczvdaf
 
 
     ////
