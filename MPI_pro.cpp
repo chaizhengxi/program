@@ -9,7 +9,7 @@ using namespace std;
 
 static const int thread_count = 4;
 
-
+jf
 
 //
 unsigned int Act[43577][1363] = {0};

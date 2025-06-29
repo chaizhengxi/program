@@ -28,6 +28,6 @@ function MergeAndCheckStrip(points, midPoint, d):
 
 
 
-
+jgfjhgf
 
     ////

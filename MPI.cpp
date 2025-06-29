@@ -6,7 +6,7 @@
 #include <omp.h>
 
 
-///
+///jfhjf
 using namespace std;
 
 static const int N = 2000;
