@@ -26,8 +26,8 @@ function MergeAndCheckStrip(points, midPoint, d):
     return minDist
 
 
+fasfadsfads
 
-
-
-
+//
+dFDFA
     ////
