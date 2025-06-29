@@ -5,6 +5,8 @@
 #include <immintrin.h>
 #include <omp.h>
 
+
+///
 using namespace std;
 
 static const int N = 2000;
